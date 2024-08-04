@@ -1,0 +1,28 @@
+.dashboard {
+    display: flex;
+  }
+  
+  .main {
+    flex: 1;
+    background-color: #181818;
+    color: white;
+    padding: 1rem;
+  }
+  
+  .widgets {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 1rem;
+  }
+  
+  .activity {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+  }
+  
+  .ordersFeedback {
+    display: flex;
+    justify-content: space-between;
+  }
+  

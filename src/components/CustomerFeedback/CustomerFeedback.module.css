@@ -1,0 +1,17 @@
+.feedback {
+    background-color: #2c2c2c;
+    padding: 1rem;
+    border-radius: 10px;
+    margin-left: 1rem;
+    width:50%
+  }
+  
+  .feedbackItem {
+    margin-bottom: 1rem;
+  }
+  
+  .feedbackItem p {
+    margin: 0.5rem 0;
+    font-size: 1rem;
+  }
+  
